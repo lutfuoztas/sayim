@@ -1,0 +1,63 @@
+/*
+Author: WebThemez
+Author URL: http://webthemez.com
+License: Creative Commons Attribution 3.0 Unported
+License URL: http://creativecommons.org/licenses/by/3.0/
+*/
+@import url(http://fonts.googleapis.com/css?family=Open+Sans:400,800,600);
+@import url(http://fonts.googleapis.com/css?family=Lobster+Two:700);
+body {
+	color:#FFF; 
+	font-family: 'calibri', sans-serif;
+	
+	
+	height:100%;
+	width:100%;
+	margin:0;
+	background-size:cover;
+	 -webkit-filter: contrast(250%);
+  filter: contrast(150%);
+}
+
+
+
+img{
+opacity: 0.5;
+
+}
+
+
+
+
+
+
+.countdown {
+text-align:center;
+}
+
+
+.styled div {
+display: inline-block;
+font-size: 80px;
+font-weight: 900;
+text-align: center;
+margin: 0 1px;
+width: 136px;
+padding: 10px 10px 53px; 
+height: 100px;
+background:rgba(255, 255, 255, 0.0);
+text-shadow: none;
+vertical-align: middle; 
+border-right:1px solid rgba(255, 255, 255, 0.36);
+text-shadow: 2px 2px rgba(12, 11, 11, 0.56);
+}
+
+
+.styled div span {
+display: block;
+border-top: 1px solid rgba(255, 255, 255, 0.36);
+padding-top: 3px;
+font-size: 21px;
+font-weight: 400;
+text-align: center;
+}
